@@ -38,7 +38,7 @@
             "submenu": [
                 {
                     "title": "pji",
-                    "link": "pages/home.md"
+                    "action": "pages/home.md"
                 },
                 {
                     "title": "pag",
