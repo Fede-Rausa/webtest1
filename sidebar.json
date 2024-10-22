@@ -2,7 +2,7 @@
     "sidebar":[
         {
             "title": "homepg",
-            "link": "https://www.w3schools.com/jsref/jsref_return.asp"
+            "action": "pages/home.md"
         },
         {
             "title": "aj",
