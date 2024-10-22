@@ -5,8 +5,12 @@
             "action": "pages/home.md"
         },
         {
-            "title": "aj",
+            "title": "jijij",
             "link": "https://www.w3schools.com/jsref/jsref_return.asp"
+        },
+        {
+            "title": "kuka",
+            "action": "pages/home.md"
         },
         {
             "title":"progetti",
@@ -24,7 +28,27 @@
                     "action": "pages/pagina2.md"
                 }
             ]
+        },
+        {
+            "title": "mister",
+            "action": "pages/home.md"
+        },
+        {
+            "title":"articoli",
+            "submenu": [
+                {
+                    "title": "pji",
+                    "link": "pages/home.md"
+                },
+                {
+                    "title": "pag",
+                    "action": "pages/pagina2.md"
+                },
+                {
+                    "title": "pagina9",
+                    "action": "pages/pagina2.md"
+                }
+            ]
         }
-
     ]
 }
