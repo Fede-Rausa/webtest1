@@ -1,0 +1,30 @@
+{
+    "sidebar":[
+        {
+            "title": "koko",
+            "link": "https://www.w3schools.com/jsref/jsref_return.asp"
+        },
+        {
+            "title": "pag5",
+            "link": "https://www.w3schools.com/jsref/jsref_return.asp"
+        },
+        {
+            "title":"progetti",
+            "submenu": [
+                {
+                    "title": "pji",
+                    "link": "https://www.w3schools.com/jsref/jsref_return.asp"
+                },
+                {
+                    "title": "pagina2",
+                    "action": "pages/pagina2.md"
+                },
+                {
+                    "title": "pagina7",
+                    "action": "pages/pagina2.md"
+                }
+            ]
+        }
+
+    ]
+}

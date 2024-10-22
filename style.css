@@ -1,0 +1,42 @@
+
+#demo {
+    width: 250px;
+    height: 100vh;
+    background-color: #2d3843;
+    color: white;
+    flex-shrink: 0;
+}
+
+#contentText {
+    font-family: Calibri, sans-serif;
+    background-color: #f0f0f0; 
+}
+
+
+#sidebar0 .nav-link {
+    color: rgb(255, 255, 255);
+}
+#sidebar0 .nav-link:hover {
+    background-color: #413f55;
+    color: rgb(37, 194, 194);
+}
+#sidebar0 .submenu {
+    padding-left: 20px;
+}
+#sidebar0 .submenu:hover {
+    color: rgb(194, 37, 157);   
+}
+
+.sidebar0.active {
+    left: 0;
+}
+
+.sidebar0 {
+    width: 200px;
+    height: 100vh;
+    background-color: #f8f9fa;
+    position: fixed;
+    top: 0;
+    left: -200px;
+    transition: left 0.3s ease;
+  }
