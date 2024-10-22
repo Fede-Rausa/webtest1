@@ -1,11 +1,11 @@
 {
     "sidebar":[
         {
-            "title": "koko",
+            "title": "homepg",
             "link": "https://www.w3schools.com/jsref/jsref_return.asp"
         },
         {
-            "title": "pag5",
+            "title": "aj",
             "link": "https://www.w3schools.com/jsref/jsref_return.asp"
         },
         {
@@ -20,7 +20,7 @@
                     "action": "pages/pagina2.md"
                 },
                 {
-                    "title": "pagina7",
+                    "title": "pagina9",
                     "action": "pages/pagina2.md"
                 }
             ]
