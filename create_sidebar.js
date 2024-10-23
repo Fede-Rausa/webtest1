@@ -8,7 +8,7 @@ document.getElementById('sidebarToggle').addEventListener('click', function() {
 function createSidebar() {
     const sidebarContainer = document.getElementById('sidebar0');  // Get the sidebar container
 
-    fetch("sidebar.json")
+    fetch("pages/sidebar.json")
         .then(response => response.json())
         .then(data => {
             const menu = data.sidebar;  // Get the sidebar menu items from the JSON
